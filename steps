@@ -4,3 +4,4 @@ Out of Project FOLDER
 sudo apt install git-all
 git config --list --show-origin
 git config --global user.name "Secret-Magic"
+git config --global user.email "chcafreet@gmail.com"
